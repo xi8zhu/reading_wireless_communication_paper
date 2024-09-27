@@ -1,4 +1,4 @@
-### A Survey of Recent Advances in Optimization Methods for Wireless Communications
+## A Survey of Recent Advances in Optimization Methods for Wireless Communications
 
 OPTIMIZATION PROBLEMS IN WIRELESS COMMUNICATIONS: STRUCTURES AND CHALLENGES
 
