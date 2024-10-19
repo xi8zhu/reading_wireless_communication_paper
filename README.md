@@ -583,7 +583,7 @@ XL-MIMO场景下，天线数量和带宽的增加，导致的近场效应明显�
 
 “空间相干信道”和 空间非平稳/平稳性有关系吗
 
-![img](./assets/v2-09b3e4bccebf21aba5446b9ff660fd63_r.jpg)
+![img](./README.assets/v2-09b3e4bccebf21aba5446b9ff660fd63_r.jpg)
 
 ## **相关 LeetCode 题目推荐**
 
